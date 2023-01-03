@@ -98,3 +98,4 @@ add_command_help(
         ["sudolist", "Displays the Sudo List."],
     ],
 )
+
