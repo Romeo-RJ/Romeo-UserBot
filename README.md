@@ -37,13 +37,15 @@
 
 `nano config.py`
 
+`Ctrl + x + y`
+
 `sudo apt install screen`
 
 `screen -S ROMEO-USERBOT`
 
 `pip3 install -U -r requirements.txt`
 
-`python3 -m RomeoBot`
+`python3 -m Romeo`
 
 `Ctrl + a + d`
 
